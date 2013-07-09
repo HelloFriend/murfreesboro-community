@@ -9,4 +9,4 @@ others do the same.
 
 If you'd like to participate, please add your information to [/humans.txt][`humans.txt`] and submit a pull request.
 
-read [http://daringfireball.net/projects/markdown/syntax][]
+read [http://daringfireball.net/projects/markdown/syntax]
