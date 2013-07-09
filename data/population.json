@@ -1,0 +1,16 @@
+{
+"Population": 111654,
+"Race": {
+  "White": 93556,
+  "Black": 12128,
+  "Hispanic": 2956,
+  "Asian": 2752,
+  "Hawaiian": 39,
+  "Indian": 290,
+  "Other": 1558
+  },
+  "Gender": {
+    "Male":55843,
+    "Female": 55811
+  }
+}
