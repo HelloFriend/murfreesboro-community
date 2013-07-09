@@ -19,4 +19,4 @@ Here's an example: You notice a typo on this page and it's an easy fix, so you f
 
 Now, while you were updating the readme file and fixing typos, you had a genuis idea: someone should teach a basic typing class in town. You can submit a "issue" ticket and tag it with "idea". Now, someone else might be looking at the site and decide that they have way too much free time. They decide that teaching your class would be a great idea. They write up a proposal for it and submit it to the repository where it's available for everyone to see.
 
-There are a bunch of resources for learning how to do all this stuff, and I plan to teach a workshop. Check out issue #1 to see how the process plays out.
+There are a bunch of resources for learning how to do all this stuff, and I plan to teach a workshop. Check out issue \#Num: #1 to see how the process plays out.
