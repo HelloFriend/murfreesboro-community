@@ -7,6 +7,6 @@ others do the same.
 
 ## Participating:
 
-If you'd like to participate, please add your information to [humans][/humans.txt] and submit a pull request.
+If you'd like to participate, please add your information to `humans.txt` and submit a pull request.
 
-read [http://daringfireball.net/projects/markdown/syntax][]
+We use a writing format called Markdown. Read [the Daring Fireball Guide to Markdown][http://daringfireball.net/projects/markdown/syntax] to get a handle on that
