@@ -7,6 +7,6 @@ others do the same.
 
 ## Participating:
 
-If you'd like to participate, please add your information to [/humans.txt][`humans.txt`] and submit a pull request.
+If you'd like to participate, please add your information to [humans.txt][humans.txt] and submit a pull request.
 
 read [http://daringfireball.net/projects/markdown/syntax]
